@@ -5,7 +5,7 @@ using System.Text;
 using System.Configuration;
 using RestSharp;
 
-namespace AppstreamLib.SMS
+namespace AppstreamLib.Utilities
 {
     public class SMS
     {

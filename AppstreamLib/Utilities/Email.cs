@@ -7,7 +7,7 @@ using System.Net.Mail;
 using System.Net;
 using System.Configuration;
 
-namespace AppstreamLib.Email
+namespace AppstreamLib.Utilities
 {
     public class Email
     {
