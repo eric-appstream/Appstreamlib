@@ -87,7 +87,9 @@
     <None Include="Nuget\Content\web.config.install.xdt">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Nuget\Content\web.config.uninstall.xdt" />
+    <None Include="Nuget\Content\web.config.uninstall.xdt">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
